@@ -1,7 +1,7 @@
 #covid tracker
 
 website link-
-[covid-tracker](covid-tracker-2220f.web.app)
+[covid-tracker](https://covid-tracker-2220f.web.app/)
 
 This project is created with following tech and tools
 * reactjs
