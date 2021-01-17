@@ -1,0 +1,29 @@
+.infocard__card {
+    border: 0px solid black;
+    background-color: black;
+    border-radius: 10px;
+    width: 14rem;
+    text-align: center;
+    color: white;
+    padding: 2px;
+    margin: 10px;
+    max-height: 150px;
+    font-family: Comic Sans MS, Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.infocard__recoverd {
+    border-bottom: 30px solid green;
+}
+
+.infocard__deaths {
+    border-bottom: 30px solid rgb(170, 33, 33, 0.9);
+}
+
+.infocard__total {
+    border-bottom: 30px solid seagreen;
+}
+
+.card-title {
+    border-bottom: 1px solid black;
+    align-items: center;
+}
